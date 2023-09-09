@@ -11,9 +11,7 @@ To view this website:
 1. Clone or download this repository.
 2. Open the `index.html` file in your web browser.
 
-- **Design**: Experience Apple's decades of design expertise. Explore the [Vision Pro design](#).
-
-- **Technology**: 
+## Technology: 
 I created this website using HTML and CSS. Here are some key components and techniques used:
 
 - **HTML**: The structure of the website is defined using HTML. 
